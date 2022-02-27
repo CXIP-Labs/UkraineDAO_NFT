@@ -19,7 +19,7 @@ lib
 ├─ forge-std — https://github.com/brockelmore/forge-std
 src
 ├─ tests
-│  └─ UkraineDAO_NFT.t — "Greeter Tests"
+│  └─ UkraineDAO_NFT.t — "UkraineDAO_NFT Tests"
 └─ UkraineDAO_NFT — NFT for Ukraine DAO"
 ```
 
